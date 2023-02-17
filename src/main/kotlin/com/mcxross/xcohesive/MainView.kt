@@ -34,11 +34,11 @@ open class MainView : CohesiveView {
 
   @Composable
   override fun Explorer() {
-    com.mcxross.cohesive.c.view.Explorer()
+    // TODO: Implement
   }
 
   @Composable
   override fun Wallet() {
-    com.mcxross.cohesive.c.view.Wallet()
+    // TODO: Implement
   }
 }
